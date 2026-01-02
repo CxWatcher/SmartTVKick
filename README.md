@@ -15,6 +15,12 @@ Smart Kick TV is a simple app to watch the Kick streaming service for FireTV &am
 2. Search Your Streamer
 3. Relax and Enjoy!
 
+### Controls
+- Press OK To Search / Play / Pause
+- Press Next or Back to Close Keyboard
+- Press Back to exit out of a Live Stream
+- Press Menu for Quality Controls
+
 ### How to install
 #### Easy
 
