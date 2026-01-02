@@ -4,9 +4,9 @@ Smart Kick TV is a simple app to watch the Kick streaming service for FireTV &am
 ### **This app has no affiliation with Kick Streaming Pty Ltd.**
 
 
-![](images/smartkicktv1.png?raw=true)
+![](images/smartkicktvv1.png?raw=true)
 
-![](images/smartkicktv2.png?raw=true)
+![](images/smartkicktvv2.png?raw=true)
 
 ![](images/smartkicktv3.png?raw=true)
 
