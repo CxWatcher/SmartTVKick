@@ -33,7 +33,7 @@ Smart Kick TV is a simple app to watch the Kick streaming service for FireTV &am
 #### Easy
 
 1. Install [Downloader by AFTVnews](https://www.aftvnews.com/downloader/) from [Google Play](https://play.google.com/store/apps/details?id=com.esaba.downloader) or [Amazon app store](https://www.amazon.co.uk/dp/B01N0BP507)
-2. Enter this code inside Downloader app: **9459513** and download the apk
+2. Enter this code inside Downloader app: **9471035** and download the apk
 3. Install the app, launch it, search your favorite streamer and enjoy!
 
 #### Medium (Device)
