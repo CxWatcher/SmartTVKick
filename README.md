@@ -30,12 +30,12 @@ Smart Kick TV is a simple app to watch the Kick streaming service for FireTV &am
 3. Install the app, launch it, search your favorite streamer and enjoy!
 
 #### Medium (Device)
-1. Download the Latest APK onto your device
+1. Download the [Latest APK](https://github.com/CxWatcher/SmartTVKick/releases/download/0.0.1/SmartKickTV-v0.0.1.apk) onto your device
 2. using a file browser select and install the apk
 3. launch it, search your favorite streamer and enjoy!
 
 #### Hard (PC)
-1. Download the Latest APK onto your device or pc
+1. Download the [Latest APK](https://github.com/CxWatcher/SmartTVKick/releases/download/0.0.1/SmartKickTV-v0.0.1.apk) onto your device or pc
 2. Install and setup ADB
 3. On Your FireTV / Android Device go to Developer Settings and Enable **ADB Debugging**
 4. Find your Devices IP Address
