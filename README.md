@@ -13,6 +13,7 @@ Smart Kick TV is a simple app to watch the Kick streaming service for FireTV &am
 ![](images/smartkicktvvv4.png?raw=true)
 
 ### Features
+- Multi-Viewer (Up to 4 Streams)
 - Favorite Streamers
 - History
 - Easy Search
@@ -33,9 +34,9 @@ Smart Kick TV is a simple app to watch the Kick streaming service for FireTV &am
 - Press Next or Back to Close Keyboard
 - Press Back to exit out of a Live Stream
 - Press Menu to Favorite a Streamer
-- Press Menu in Stream for Quality Controls
+- Press Menu in Stream for Options Menu (Multi-Viewer and Quality)
 - Use Channel Up+/Down- or DPAD Up/Down to Switch between Favorite Streamers Easily
-- 
+
 ### How to install
 #### Easy
 
