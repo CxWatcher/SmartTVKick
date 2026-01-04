@@ -17,7 +17,7 @@
 </details>
 
 ### Features
-- Multi-Viewer (Up to 4 Streams **Add to Favorite to show in Menu**)
+- Multi-Viewer (Up to 4 Streams) **Add to Favorite to show in Menu**
 - Favorite Streamers
 - History
 - Easy Search
