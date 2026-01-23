@@ -1,5 +1,5 @@
 # SmartKickTV
-![](images/smartkicktt1.png?raw=true)
+![](images/kickk1.png?raw=true)
 **SmartKickTV** is a simple app to watch the [Kick](https://kick.com/) streaming service for FireTV &amp; Android TV devices
 
 <details>
@@ -7,13 +7,13 @@
   
 
 
-![](images/smartkickt2.png?raw=true)
+![](images/kickk2.png?raw=true)
 
-![](images/smartkickt3.png?raw=true)
+![](images/kickk3.png?raw=true)
 
-![](images/smartkickt4.png?raw=true)
+![](images/kickk4.png?raw=true)
 
-![](images/smartkickt5.png?raw=true)
+![](images/kickk5.png?raw=true)
 </details>
 
 ### Features
