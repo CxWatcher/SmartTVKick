@@ -26,6 +26,7 @@
 - Themes
 - Channel/Stream Switcher
 - Built in Updater
+- No AD's
 
 ### How to use
 1. Install APK (Instructions Below)
