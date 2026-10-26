@@ -17,7 +17,11 @@
 </details>
 
 ### Features
-- Multi-Viewer (Up to 4 Streams) **Add to Favorite to show in Menu**
+- Multi-Viewer (Up to 4 Streams)
+- Watch VODs
+- Watch Clips
+- Built-In AD-Block
+- Fast-Forward and Rewind Streams, Clips and VODs
 - Favorite Streamers
 - History
 - Easy Search
@@ -26,7 +30,6 @@
 - Themes
 - Channel/Stream Switcher
 - Built in Updater
-- No AD's
 
 ### How to use
 1. Install APK (Instructions Below)
@@ -46,23 +49,22 @@
 #### Easy
 
 1. Install [Downloader by AFTVnews](https://www.aftvnews.com/downloader/) from [Google Play](https://play.google.com/store/apps/details?id=com.esaba.downloader) or [Amazon app store](https://www.amazon.co.uk/dp/B01N0BP507)
-2. Enter this code inside Downloader app: **5902228** and download the apk
+2. Enter this code inside Downloader app: **9258746** and download the apk
 3. Install the app, launch it, search your favorite streamer and enjoy!
 
 #### Medium (Device)
-1. Download the [Latest APK](https://github.com/CxWatcher/SmartTVKick/releases/download/0.0.6/SmartKickTV-v0.0.6.apk) onto your device
+1. Download the [Latest APK](https://github.com/CxWatcher/SmartTVKick/releases/download/0.0.8/SmartKickTV-v0.0.8.apk) onto your device
 2. using a file browser select and install the apk
 3. launch it, search your favorite streamer and enjoy!
 
 #### Hard (PC)
-1. Download the [Latest APK](https://github.com/CxWatcher/SmartTVKick/releases/download/0.0.6/SmartKickTV-v0.0.6.apk) onto your device or pc
+1. Download the [Latest APK](https://github.com/CxWatcher/SmartTVKick/releases/download/0.0.8/SmartKickTV-v0.0.8.apk) onto your device or pc
 2. Install and setup ADB
 3. On Your FireTV / Android Device go to Developer Settings and Enable **ADB Debugging**
 4. Find your Devices IP Address
 5. Connect to your device ```adb connect YOURIPHERE```
 6. If promted on your TV accept the connection
-7. Install the APK ```adb install SmartKickTV-V0.0.6.apk```
+7. Install the APK ```adb install SmartKickTV-V0.0.8.apk```
 8. launch it, search your favorite streamer and enjoy!
-
 
 ### **This app has no affiliation with Kick Streaming Pty Ltd.**
