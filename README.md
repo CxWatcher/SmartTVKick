@@ -38,9 +38,7 @@
 - Press OK To Search / Play / Pause
 - Press Next or Back to Close Keyboard
 - Press Back to exit out of a Live Stream
-- Press Menu to Favorite a Streamer
-- Press Menu in Stream for Options Menu (Multi-Viewer and Quality)
-- Use Channel Up+/Down- or DPAD Up/Down to Switch between Favorite Streamers Easily
+- Use Channel Up+/Down- to Switch between Favorite Streamers Easily
 
 ### How to install
 #### Easy
